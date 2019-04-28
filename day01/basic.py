@@ -18,22 +18,22 @@ print('test')
 x = 1
 
 print(0xff)
-#255
+# 255
 
 print(1.234e4)
-#12340.0
+# 12340.0
 
 print('abc')
-#abc
+# abc
 
 print('Tom\'s name')
-#Tom's name
+# Tom's name
 
 print(r'Tom\'s name')  # raw
-#Tom\'s name
+# Tom\'s name
 
 print('line\nanother line...')
-#another line...
+# another line...
 
 # <pre>
 
@@ -49,7 +49,7 @@ print('a', 'bc', 'def')
 # a bc def
 
 print('a' + 'bc' + 'def')
-#abcdef
+# abcdef
 
 # Scanner
 
